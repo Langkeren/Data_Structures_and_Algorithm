@@ -2,4 +2,4 @@ just for test
 cout << "hello" << endl;
 test again;
 
-create a branch is quite simple;
+Creating a new branch is quick and simple.
